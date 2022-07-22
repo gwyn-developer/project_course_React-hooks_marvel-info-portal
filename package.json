@@ -1,15 +1,14 @@
 {
   "name": "marvel_info_portal_hooks",
   "version": "1.0.0",
-  "description": "",
-  "repository": "",
-  "homepage": "",
+  "description": "Simple app - portal to the marvel universe, which is the result of a course on intermediate advanced level of React and Hooks in React.",
+  "repository": "https://github.com/gwyn-developer/project_course_React-hooks_marvel-info-portal",
+  "homepage": "https://project-course-react-hooks-marvel-info-portal.vercel.app/",
   "author": "Alexei Ovchinnikov <ovao89@mail.ru>",
   "license": "MIT",
   "keywords": [
     "js",
     "javascript",
-    "webpack",
     "html",
     "css",
     "react"
