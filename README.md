@@ -2,4 +2,4 @@
 
 Simple app - portal to the marvel universe, which is the result of a course on intermediate advanced level of React and Hooks in React.
 
-**Demo**: 
+**Demo**: https://project-course-react-hooks-marvel-info-portal.vercel.app/
