@@ -12,6 +12,7 @@
     "html",
     "css",
     "react"
+    "react-hooks"
   ],
   "private": true,
   "dependencies": {
